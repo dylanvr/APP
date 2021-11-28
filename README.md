@@ -1,4 +1,4 @@
-# AppDroid 
+# APP 
 
 En este proyecto encontraremos aplicaciones mobiles, desde varios niveles 
 
@@ -16,7 +16,7 @@ Es necesario tener Android Studios ya que este es una aplicación móvil y se de
 
 Para la instalación correcta del proyecto sigue los siguientes pasos
 
-1. Copia el repositorio con el botón de copy que se encuentra en la parte superior ![image](https://github.com/dylanvr/APP/blob/main/Images/Clone.png)
+1. Copia el repositorio con el botón de copy que se encuentra en la parte superior ![image](https://raw.githubusercontent.com/dylanvr/APP/main/Images/Clone.PNG)
 
 2. Abre una carpeta en tu ordenador y abre una consola de comando, de preferencia git bash
 
@@ -28,7 +28,7 @@ Para la instalación correcta del proyecto sigue los siguientes pasos
   
 4. Al realizar esto el proyecto ya estará en tu ordenador ahora para abrirlo desde Android Studios 
 
-![image](https://user-images.githubusercontent.com/48194337/141157773-2a958c2d-eee9-44f6-a664-4562a5fba5c2.png)
+![image](https://raw.githubusercontent.com/dylanvr/APP/main/Images/Carpeta.png)
 
 5. Abre Android Studios presiona el botón de File, seguidamente presiona open ![image](https://user-images.githubusercontent.com/48194337/141155481-bf932317-b736-434c-a983-79ef4cc863e4.png)
 
