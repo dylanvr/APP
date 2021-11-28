@@ -16,7 +16,7 @@ Es necesario tener Android Studios ya que este es una aplicación móvil y se de
 
 Para la instalación correcta del proyecto sigue los siguientes pasos
 
-1. Copia el repositorio con el botón de copy que se encuentra en la parte superior ![image](https://user-images.githubusercontent.com/48194337/141156836-ea540c7f-2671-42d1-a941-86df4fd15697.png)
+1. Copia el repositorio con el botón de copy que se encuentra en la parte superior ![image](https://github.com/dylanvr/APP/blob/main/Images/Clone.png)
 
 2. Abre una carpeta en tu ordenador y abre una consola de comando, de preferencia git bash
 
