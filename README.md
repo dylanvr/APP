@@ -1,6 +1,6 @@
 # AppDroid 
 
-En este proyecto encontraremos una aplicación móvil, en el cual podrás realizar una consulta de puntos de interes, haciendo un recorrido virtual en la ciudad de NEW YORK ✈️🛩️
+En este proyecto encontraremos aplicaciones mobiles, desde varios niveles 
 
 ## Comenzando 🚀
 
@@ -42,13 +42,8 @@ Para ejecutar las pruebas es necesario hacerlo desde el emulador o desde el mism
 
 ## Construido con 🛠️
 
-![](https://img.shields.io/static/v1?label=AndroidStudios&message=v4.1.1&color=orange&style=for-the-badge&logo=android) ![](https://img.shields.io/static/v1?label=Kotlin&message=v0.20.0&color=blue&style=for-the-badge&logo=kotlin) ![](https://img.shields.io/static/v1?label=MONGOBD&message=v4.0.8&color=green&style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/static/v1?label=AndroidStudios&message=v4.1.1&color=orange&style=for-the-badge&logo=android) ![](https://img.shields.io/static/v1?label=Kotlin&message=v0.20.0&color=blue&style=for-the-badge&logo=kotlin)
 
 ## Autores ✒️
 
-* **Yeferson Culma** - [yeferfer](https://github.com/yeferfer)
-* **Edison Bernate** - [ebernaguz26](https://github.com/ebernaguz26)
-* **Andrea Rodifuez** - [Aerdnadark](https://github.com/Aerdnadark)
-* **Andres Leal** - [aflealf](https://github.com/aflealf)
-* **Alejandro Prieto** - [al-prieto](https://github.com/al-prieto)
 * **Dylan Villalba** - [dylanvr](https://github.com/dylanvr)
